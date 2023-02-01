@@ -21,7 +21,8 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://cdn.discordapp.com/attachments/935000750327734323/1068302189937840178/fontan.png
+  );
 
   /*
     Main Theme Color
@@ -36,7 +37,10 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/1008500824642699285/1010842698149797888/Screen_Shot_2022-08-21_at_5.27.51_PM.png
+  
+  
+  );
 
   /*
     Change your friends icon image position
@@ -50,7 +54,7 @@
 
   /*
     Server Listing Width
-    Single Column:  62px
+    Single Column:  72px
     Double Column:  126px
     Triple Column:  184px
     Quad Column:    242px
@@ -66,7 +70,7 @@
     Mention colors
   */
   --mention-color: rgba(250, 166, 26, 0.05);
-  --mention-sider: rgba(250, 166, 26, 1);
+  --mention-sider: rgba(29, 155, 144, 0.6);
   --mention-hover-color: rgba(250, 166, 26, 0.08);
 
   /*
@@ -97,14 +101,14 @@
     Small User Popout
   */
   --small-user-popout-background-image: var(--theme-background-image);
-  --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
+  --small-user-popout-background-transparency: rgba(0, 00, 00, 0.6);
   --small-user-popout-background-image-position: center;
 
   /*
     Big User Popout
   */
   --big-user-popout-background-image: var(--theme-background-image);
-  --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
+  --big-user-popout-background-transparency: rgba(000, 0, 0, 0.6);
   --big-user-popout-background-image-position: center;
 
   /*
